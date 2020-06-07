@@ -1,12 +1,4 @@
 /* https://roamresearch.com/#/app/roam-tricks/page/57ntosCpn */
-:root {
-  --custom-background-color: lightsteelblue;
-  --custom-background-color-hover: orange;
-  --body-font: "Opeerator Mono", "Ubuntu", "Inter", 'TsukuARdGothic-Regular', sans-serif;
-  --header-font: 'Operator Mono', "Oxanium", "Inter", 'TsukuARdGothic-Regular', sans-serif;
-  --page-width: 800px;
-  --color-primary: 255,152,0;
-}
 
 .rm-page-ref-link-color {
   /*color:black !important;*/
