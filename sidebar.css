@@ -5,6 +5,7 @@
 
 #right-sidebar {
   height: 100vh !important;
+  overflow: hidden scroll;
 }
 
 /* spacing and scrolling */
