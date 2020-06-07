@@ -1,12 +1,13 @@
 @import url('https://azlen.github.io/roam-themes/cosmonaut.css');
 
-@import url('https://kdnk.github.io/roam-themes/root.css');
-@import url('https://kdnk.github.io/roam-themes/hashtag.css');
-@import url('https://kdnk.github.io/roam-themes/anchar-tag.css');
-@import url('https://kdnk.github.io/roam-themes/hide-brackets.css');
-@import url('https://kdnk.github.io/roam-themes/link-button.css');
-@import url('https://kdnk.github.io/roam-themes/ref.css');
-@import url('https://kdnk.github.io/roam-themes/checkmark.css');
-@import url('https://kdnk.github.io/roam-themes/highlight-color.css');
-@import url('https://kdnk.github.io/roam-themes/link-underbar.css');
-@import url('https://kdnk.github.io/roam-themes/sidebar.css');
+@import url('./root.css');
+@import url('./hashtag.css');
+@import url('./anchar-tag.css');
+@import url('./hide-brackets.css');
+@import url('./link-button.css');
+@import url('./ref.css');
+@import url('./checkmark.css');
+@import url('./highlight-color.css');
+@import url('./link-underbar.css');
+@import url('./sidebar.css');
+@import url('./sync-icon.css');
