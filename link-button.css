@@ -1,0 +1,3 @@
+.bp3-button:not([class*="bp3-intent-"]) {
+	color: rgb(var(--color-secondary), 0.5);
+}

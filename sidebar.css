@@ -1,0 +1,14 @@
+#roam-right-sidebar-content {
+  height: max-content !important;
+  flex-direction: column !important;
+}
+
+#right-sidebar {
+  height: 100vh !important;
+}
+
+/* spacing and scrolling */
+#roam-right-sidebar-content > * {
+  padding: 50px 0px 50px 0px;
+
+}

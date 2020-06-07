@@ -1,0 +1,14 @@
+a {
+  color: #8A3CC8 !important;
+}
+.intercom-app,
+.intercom-launcher-frame,
+#intercom-container {
+  display: none !important;
+}
+
+
+.content span.rm-page-ref {
+  padding: 4px 1px 1px;
+  /* required for fixing azo */
+}

@@ -1,0 +1,14 @@
+.checkmark {
+  background: #fff;
+}
+.check-container input:checked ~ .checkmark {
+  background: #33bdea;
+}
+.check-container input:checked ~ .checkmark:after {
+  border-color: #fff;
+}
+
+.check-container {
+  padding-right: 4px;
+  top: -8px;
+}
