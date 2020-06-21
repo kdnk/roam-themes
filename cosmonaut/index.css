@@ -1,9 +1,10 @@
+@import url('./root.css');
 @import url('https://azlen.github.io/roam-themes/cosmonaut.css');
 
-@import url('./root.css');
+
 @import url('./hashtag.css');
 @import url('./anchar-tag.css');
-@import url('./hide-brackets.css');
+@import url('../common/hide-brackets.css');
 @import url('./link-button.css');
 @import url('./ref.css');
 @import url('./checkmark.css');
