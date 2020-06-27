@@ -1,5 +1,10 @@
 /* https://roamresearch.com/#/app/roam-tricks/page/57ntosCpn */
 
+:root {
+  --custom-background-color: lightsteelblue;
+  --custom-background-color-hover: orange;
+}
+
 .rm-page-ref-link-color {
   /*color:black !important;*/
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
