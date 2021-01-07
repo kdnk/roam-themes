@@ -1,3 +1,38 @@
+- ```css
+@import url('https://abhayprasanna.github.io/dark-age-dracula.css');
+@import url('https://abhayprasanna.github.io/optional.css');
+@import url('https://abhayprasanna.github.io/rainbow-indent.css');
+@import url('https://kdnk.github.io/roam-themes/common/link-underbar.css');
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Trending
+Explore
+@kdnk
+kdnk /
+roam-themes
+
+0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+
+    Settings
+
+More
+roam-themes/common/link-underbar.css
+@kdnk
+kdnk Add root
+Latest commit c51a353 on Jun 27, 2020
+History
+1 contributor
+57 lines (48 sloc) 1.75 KB
 /* https://roamresearch.com/#/app/roam-tricks/page/57ntosCpn */
 
 :root {
@@ -5,7 +40,7 @@
   --custom-background-color-hover: orange;
 }
 
-.rm-page-ref-link-color {
+.rm-page-ref--link {
   /*color:black !important;*/
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
@@ -13,7 +48,7 @@
   padding-bottom: 4px;
 }
 
-.rm-page-ref-link-color:hover {
+.rm-page-ref--link:hover {
   /* color:black !important; */
   background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
@@ -22,7 +57,7 @@
   padding-bottom: 4px;
 }
 
-.rm-page-ref-link-color .rm-page-ref-link-color {
+.rm-page-ref--link .rm-page-ref--link {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
@@ -30,7 +65,7 @@
   padding-bottom: 8px;
 }
 
-.rm-page-ref-link-color .rm-page-ref-link-color:hover {
+.rm-page-ref--link .rm-page-ref--link:hover {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
@@ -39,7 +74,7 @@
 }
 
 
-.rm-page-ref-link-color .rm-page-ref-link-color .rm-page-ref-link-color {
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
@@ -48,10 +83,11 @@
 }
 
 
-.rm-page-ref-link-color .rm-page-ref-link-color .rm-page-ref-link-color:hover {
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
   background-position: 0 100%;
   line-height: 32px;
   padding-bottom: 12px;
 }
+```
