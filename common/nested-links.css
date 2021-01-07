@@ -1,40 +1,3 @@
-- ```css
-@import url('https://abhayprasanna.github.io/dark-age-dracula.css');
-@import url('https://abhayprasanna.github.io/optional.css');
-@import url('https://abhayprasanna.github.io/rainbow-indent.css');
-@import url('https://kdnk.github.io/roam-themes/common/link-underbar.css');
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Trending
-Explore
-@kdnk
-kdnk /
-roam-themes
-
-0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-
-    Settings
-
-More
-roam-themes/common/link-underbar.css
-@kdnk
-kdnk Add root
-Latest commit c51a353 on Jun 27, 2020
-History
-1 contributor
-57 lines (48 sloc) 1.75 KB
-/* https://roamresearch.com/#/app/roam-tricks/page/57ntosCpn */
-
 :root {
   --custom-background-color: lightsteelblue;
   --custom-background-color-hover: orange;
@@ -90,4 +53,3 @@ History
   line-height: 32px;
   padding-bottom: 12px;
 }
-```
