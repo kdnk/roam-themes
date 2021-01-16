@@ -21,7 +21,6 @@
 .rm-page-ref--link .rm-page-ref--link {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-  background-position: 0 100%;
   line-height: 28px;
   padding-bottom: 8px;
 }
@@ -29,7 +28,6 @@
 .rm-page-ref--link .rm-page-ref--link:hover {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-  background-position: 0 100%;
   line-height: 28px;
   padding-bottom: 8px;
 }
@@ -38,7 +36,6 @@
 .rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-  background-position: 0 100%;
   line-height: 32px;
   padding-bottom: 12px;
 }
@@ -47,7 +44,6 @@
 .rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
   /* color: black !important; */
   background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-  background-position: 0 100%;
   line-height: 32px;
   padding-bottom: 12px;
 }
